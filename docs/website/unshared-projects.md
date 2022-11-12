@@ -42,3 +42,8 @@ Don't pretend that no one has had their project stolen because they didn't know 
 In most other large websites, "unshared" or "private" things actually being effectively public would be considered a critical security bug and would usually be eligible for a very large bug bounty. ([example](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/))
 
 We've always had the stance that if people want unshared projects to actually be private, they should talk to the Scratch Team, and perhaps enough people did that for the Scratch Team to listen.
+
+This is also good to avoid doxxing because some people shared people's address, someone's phone number, their id, and passwords on scratch projects.
+Some people have seen inappropriate projects on scratch. Not every website is perfect, so some people bypass the filters and make extremely inappropriate art, games, music, and more. 
+
+But when scratch takes it down, it would still availble to Turbowarp, which is a bad thing. Thankfully, no kid/adult on scratch would have to worry about finding an inappropriate project which was arcived in Turbowarp for some reason.
